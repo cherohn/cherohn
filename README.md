@@ -6,10 +6,10 @@
  
 <div>
   <a href="https://github.com/snowthey">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=snowthey&show_icons=true&theme=dracula" />
+    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=snowthey&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/snowthey">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowthey&layout=compact&card_width=320&theme=dracula&langs_count=20" />
+    <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowthey&layout=compact&card_width=320&theme=dracula&langs_count=20" />
   </a> 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github.com/snowthey">
-  <img height=600 align="center" src="https://wakatime.com/share/@Garcez/5b998e56-ed77-40f0-aec7-e720353d3266.svg" />
+  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/5b998e56-ed77-40f0-aec7-e720353d3266.svg" />
   </a>
 </div>
 
