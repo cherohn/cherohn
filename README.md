@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/snowthey">
-  <img height=167 align="center" src=https://github-readme-stats.vercel.app/api/wakatime?username=snowthey />
+  <img height=167 align="center" src=https://github-readme-stats.vercel.app/api/wakatime?username=Garcez />
   </a>
 </div>
 
