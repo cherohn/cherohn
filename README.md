@@ -3,8 +3,6 @@
 - 🌱 Estudando Java, Lua e Python
 - 📫 Contate-me no email: matheus.garcez09@gmail.com
 
-
-
 <div>
   <a href="https://github.com/snowthey">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=snowthey&show_icons=true&theme=dracula" />
@@ -16,7 +14,7 @@
 
 <div>
   <a href="https://github.com/snowthey">
-  <img height=196 align="center" src=https://github-readme-stats.vercel.app/api/wakatime?username=snowthey />
+  <img height=167 align="center" src=https://github-readme-stats.vercel.app/api/wakatime?username=snowthey />
   </a>
 </div>
 
