@@ -1,6 +1,6 @@
-### Olá! Eu sou o Matheus Garcez
+### HI! I am Matheus Garcez
 
-- 🌱 Estudando Java, Lua e Python
+- 🌱 Studying Java, Lua e Python
   
  ##
  
