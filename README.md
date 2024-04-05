@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github.com/snowthey">
-  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/5b998e56-ed77-40f0-aec7-e720353d3266.svg" />
+  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/d0ad2b9a-fe8e-42c9-811d-572937a29b5e.svg" />
   </a>
 </div>
 
