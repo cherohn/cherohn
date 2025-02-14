@@ -8,7 +8,7 @@
   <a href="https://github.com/cherohn">
     <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=snowthey&show_icons=true&theme=dracula" />
   </a>
-  <a href="https://github.com/snowthey">
+  <a href="https://github.com/cherohn">
     <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snowthey&layout=compact&card_width=320&theme=dracula&langs_count=20" />
   </a> 
 </div>
@@ -16,7 +16,7 @@
 ##
 
 <div>
-  <a href="https://github.com/snowthey">
+  <a href="https://github.com/cherohn">
   <img height=599 align="center" src="https://wakatime.com/share/@Garcez/d0ad2b9a-fe8e-42c9-811d-572937a29b5e.svg" />
   </a>
 </div>
