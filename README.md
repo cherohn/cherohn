@@ -5,6 +5,10 @@
  ##
  
 <div>
+   <a href="https://github.com/cherohn">
+     <img height=183 align="center" src="https://github-readme-stats.vercel.app/api?username=cherohn&show_icons=true&theme=dracula&cache_seconds=86400&count_private=true" />
+  </a> 
+  
   <a href="https://github.com/cherohn">
     <img height=183 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherohn&layout=compact&card_width=600&theme=dracula&langs_count=20" />
   </a> 
