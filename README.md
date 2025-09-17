@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/cherohn">
-  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/d0ad2b9a-fe8e-42c9-811d-572937a29b5e.svg" />
+  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/7565d9e5-9ea1-4f38-a999-9eb700c70981.svg" />
   </a>
 </div>
 
