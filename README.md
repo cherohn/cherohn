@@ -16,15 +16,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/cherohn">
-  <img height=599 align="center" src="https://wakatime.com/share/@Garcez/28868382-a660-47f1-bb4b-a2e2581410f4.svg"/>    
-  </a>
-</div>
-
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Lua" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Math-Lua" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
