@@ -1,6 +1,8 @@
 ### HI! I am Matheus Garcez
 
-- 🌱 Studying Java and Python
+- 💻 Backend Developer focused on Java & Spring  
+- 🚀 Building REST APIs and scalable backend systems  
+- 🎯 Looking for Junior Backend / Software Engineering opportunities
   
  ##
  
