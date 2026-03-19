@@ -8,11 +8,11 @@
  
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/cherohn">
-    <img src="https://github-readme-stats-6ner10gwb-cherohns-projects.vercel.app/api?username=cherohn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" />
+    <img src="https://github-readme-stats-seven-sable-79.vercel.app/api?username=cherohn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=0" />
   </a>
 
   <a href="https://github.com/cherohn">
-    <img src="https://github-readme-stats-6ner10gwb-cherohns-projects.vercel.app/api/top-langs?username=cherohn&layout=compact&card_width=350&theme=dracula&langs_count=20&count_private=true&cache_seconds=0" />
+    <img src="https://github-readme-stats-seven-sable-79.vercel.app/api/top-langs?username=cherohn&layout=compact&card_width=350&theme=dracula&langs_count=20&count_private=true&cache_seconds=0" />
   </a> 
 </div>
 
