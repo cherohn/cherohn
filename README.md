@@ -1,23 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on Pathron, an AI-driven platform, while continuously building backend and AI-focused projects.<br>👯 I’m looking to collaborate on Java, Spring Boot, AI, system design and open-source backend projects.<br>🤝 I’m looking for help with Large-scale distributed systems, cloud architecture and high-performance backend applications.<br>🌱 I’m currently learning Microservices, AWS, event-driven architecture, Docker, Kubernetes and advanced software design patterns.<br>💬 Ask me about Java, Spring Boot, REST APIs, software architecture, compilers, neural networks and backend development.<br>⚡ Fun fact: I implemented a compiler and a neural network from scratch in Java to deepen my understanding of computer science fundamentals.<br>
+<div align="center">
 
+# Hey, I'm Matheus
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-garcez-172377249) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheus.garcez09@gmail.com) 
+**Java Backend Developer** based in Uberlândia, Brazil
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=cherohn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
-![](https://streak-stats.demolab.com/?user=cherohn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cherohn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=cherohn&icon=2&color=blue)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I got into programming because I wanted to understand how things work — not just use them.
+
+That curiosity led me to build a compiler from scratch (well, with JFlex and CUP, but I wrote every grammar rule and semantic check myself), train neural networks without touching a single ML library, and evolve AI agents that learn to play games purely through survival.
+
+Along the way I picked up Java, Spring Boot, PostgreSQL, and the habit of not stopping until I understand what's happening under the hood.
+
+Today I build REST APIs and backend systems, and I'm co-founding an AI-powered platform for IT professionals — which means I also deal with architecture decisions, database modeling, and shipping things that actually have to work.
+
+---
+
+## What I've built
+
+**AI & Games — three projects, three different learning paradigms:**
+
+- **[Pong AI](https://github.com/cherohn/Pong-IA)** — Feedforward neural net + backpropagation, pure Java. The AI learns by adjusting weights from its own mistakes in real time.
+- **[Flappy Bird AI](https://github.com/cherohn/FlappyBirdIA)** — Genetic algorithm. No error signal — birds evolve through natural selection across generations.
+- **[Dino AI](https://github.com/cherohn/Dino-IA-Java)** — Neuroevolution with a population of agents competing simultaneously. Faster convergence, more chaos.
+
+Not a coincidence. I built all three to understand *why* you'd pick one approach over another.
+
+**Compilers & Formal Languages:**
+
+- **[Java Compiler](https://github.com/cherohn/JavaCompiler-ParserGenerator)** — Lexical analysis (JFlex), syntactic and semantic analysis (CUP). Full pipeline from source code to validated AST.
+
+**Backend:**
+
+- **[Spring Boot REST API](https://github.com/cherohn/Spring-Basic-REST-API)** — Layered architecture (Controller → Service → Repository), JPA, OpenAPI docs.
+- **[Appointment System](https://github.com/cherohn/AppointmentSystem-Java-JDBC)** — JDBC, PostgreSQL, OOP design patterns.
+
+**Games (without AI):**
+
+- **[Asteroids](https://github.com/cherohn/Asteroids-Java)** · **[Snake](https://github.com/cherohn/Cobrinha-Java)**
+
+**Personal tools (private — built for daily use):**
+
+- **Apex AI** — A personal AI assistant built in Python, inspired by J.A.R.V.I.S. Integrates local LLM inference via Ollama, custom command parsing, and a dark-themed chat interface. My daily driver for automating repetitive tasks and exploring what LLMs can actually do.
+- **Job Finder** — A personal automation tool that scrapes and aggregates job listings based on custom filters. Built because I wanted the jobs to come to me, not the other way around.
+
+---
+
+## Stack
+
+```
+Backend   →  Java 17 · Spring Boot 3 · REST APIs · JPA/Hibernate · PostgreSQL
+Tools     →  Docker · Git · Maven · Postman · Linux
+Also use  →  Python · JavaScript · React
+```
+
+---
+
+## Currently
+
+Building something in the AI + education space. Not ready to talk details yet — but the backend is Spring Boot and the problems are interesting.
+
+Open to **Java backend** opportunities (CLT or PJ).
+
+---
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/matheus-garcez-172377249) · [matheus.garcez09@gmail.com](mailto:matheus.garcez09@gmail.com)
+
+</div>
