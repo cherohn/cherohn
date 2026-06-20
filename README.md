@@ -41,10 +41,10 @@ Not a coincidence. I built all three to understand *why* you'd pick one approach
 
 - **[Asteroids](https://github.com/cherohn/Asteroids-Java)** · **[Snake](https://github.com/cherohn/Cobrinha-Java)**
 
-**Personal tools (private — built for daily use):**
+**Personal tools:**
 
-- **Apex AI** — A personal AI assistant built in Python, inspired by J.A.R.V.I.S. Integrates local LLM inference via Ollama, custom command parsing, and a dark-themed chat interface. My daily driver for automating repetitive tasks and exploring what LLMs can actually do.
-- **Job Finder** — A personal automation tool that scrapes and aggregates job listings based on custom filters. Built because I wanted the jobs to come to me, not the other way around.
+- **[Job Matcher](https://github.com/cherohn/job-matcher)** — Desktop app that scrapes job listings, scores resume fit using AI, and emails the best matches automatically. Built because manually reading dozens of postings to find out a job wants Angular when you're backend is a terrible use of time. Uses your own API keys (Groq + Serper + Gmail) — no subscription, no middleman.
+- **Apex AI** *(private)* — A personal AI assistant built in Python, inspired by J.A.R.V.I.S. Integrates local LLM inference via Ollama, custom command parsing, and a dark-themed chat interface. My daily driver for automating repetitive tasks and exploring what LLMs can actually do.
 
 ---
 
