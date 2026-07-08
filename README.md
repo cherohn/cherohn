@@ -229,6 +229,6 @@ open_to:
 
 "Understand what's happening under the hood, not just the API surface."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=A78BFA&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
