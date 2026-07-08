@@ -78,7 +78,7 @@ Today I build REST APIs and backend systems, and I'm working on an AI-powered pl
 ## Featured Projects
 
 <details>
-<summary><b>🟣 E-commerce API — Spring Boot 3 · PostgreSQL · Redis · Docker · GitHub Actions</b></summary>
+<summary><b>🟣 E-commerce API — Spring Boot 4 · PostgreSQL · Redis · Docker · GitHub Actions</b></summary>
 <br/>
 
 Production-style e-commerce backend focused on data integrity under concurrency and financial correctness.
@@ -96,7 +96,7 @@ Production-style e-commerce backend focused on data integrity under concurrency 
 </details>
 
 <details>
-<summary><b>🟣 Task Manager API — Spring Boot 3 · JWT · PostgreSQL · Docker</b></summary>
+<summary><b>🟣 Task Manager API — Spring Boot 4 · JWT · PostgreSQL · Docker</b></summary>
 <br/>
 
 REST API focused on getting authentication and authorization right.
@@ -209,7 +209,7 @@ Built because manually reading dozens of job postings to find out one wants Angu
 
 ```yaml
 building:
-  - REST APIs with Spring Boot 3 (JWT, Redis, Docker, CI/CD)
+  - REST APIs with Spring Boot 4 (JWT, Redis, Docker, CI/CD)
   - AI-powered platform for IT professionals
 
 exploring:
