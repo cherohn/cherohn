@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Matheus%20Garcez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%26%20REST%20APIs&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=650&height=80&lines=Hey%2C+I'm+Matheus+Garcez" alt="Matheus Garcez" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Building+REST+APIs+with+Spring+Boot;Neural+Networks+%2B+Genetic+Algorithms+%2B+Compilers;Open+to+Java+Backend+Opportunities" alt="Typing SVG" />
@@ -197,7 +197,7 @@ Built because manually reading dozens of job postings to find out one wants Angu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cherohn/cherohn/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/cherohn/cherohn/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
