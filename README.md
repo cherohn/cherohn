@@ -181,16 +181,6 @@ Built because manually reading dozens of job postings to find out one wants Angu
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cherohn&theme=redical&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## Contribution Snake
